@@ -1,0 +1,12 @@
+.right {
+	border: 4px solid blue;
+    background-color: blue;
+}
+.wrong {
+	border: 1px solid red;
+    background-color: red;
+}
+
+#btn {
+    margin-top: 20px;
+}
